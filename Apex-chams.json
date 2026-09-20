@@ -1,5 +1,5 @@
 {
-  "enabled": false,
+  "enabled": true,
   "title": "THIS PROXY IS EXPIRED",
   "message": "Your proxy has expired.",
   "telegram": "https://t.me/+wQBjSaIdGMQ3YWRl"
